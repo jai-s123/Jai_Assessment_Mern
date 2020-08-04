@@ -1,0 +1,21 @@
+.appcss{
+  background-color: #7917a0;
+
+}
+
+.phr {
+    width: 100%;
+    border: 1px solid;
+    background-color:#000;
+}
+
+.pdetails {
+    color: #000;
+    margin-left: 4%;
+}
+
+
+ul{
+    list-style-type: upper-roman;
+}
+

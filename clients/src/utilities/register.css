@@ -1,0 +1,126 @@
+h1, h2 {
+    color: #000;
+    font-weight: bold;
+    text-align: center;
+}
+
+h3, li{
+    color: #fff;
+    font-weight: bold;
+}
+h4{
+    text-align: center;
+    text-decoration: line;
+}
+
+hr {
+    width: 52%;
+    border: 2px solid;
+    background-color:#181818;
+}
+
+label{
+    color: #fff;
+    display: block;
+    width: 80%;
+    padding-top: 15px;
+    font-size: 1.2rem;
+    margin: 20px 0 0 0;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    transform: translateX(-50%);
+}
+
+small {
+    color: red;
+    display: block;
+    width: 81%;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    transform: translateX(-50%);
+}
+
+.infield {
+    display: block;
+    width: 80%;
+    padding-top: 15px;  
+    margin: 20px 0 0 0;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    transform: translateX(-50%);
+    background-color:white;
+    color: black !important;
+}
+
+.box {
+    background-color: rgb(15, 146, 55);
+    width: 50%;
+    padding: 50px;
+    margin : 50px;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    transform: translateX(-50%);
+    border-radius: 20px;   
+    margin-bottom: 5%; 
+    -webkit-box-shadow: 20 20px 20px -6px #000000;
+    -moz-box-shadow: 0 10px 6px -6px #000000;
+    box-shadow: 0 10px 6px -6px #000000;
+}
+
+
+.next {
+    justify-content: center;
+    align-items: center;
+    left: 45%;
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+    color: '#E53935'
+}
+
+.previous {
+    justify-content: center;
+    left: 43%;
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+    color: '#1565C0'
+}
+
+.adddetails {
+    justify-content: center;
+    align-items: center;
+    left: 47%;
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+    
+}
+
+.removedetails {
+    justify-content: center;
+    align-items: center;
+    left: 20%;
+    -ms-transform: translateX(-50%);
+    transform: translateX(-50%);
+}
+
+
+.txtfield {
+    color: #441491;
+    display: block;
+    width: 80%;
+    padding-top: 15px;  
+    margin: 20px 0 0 0;
+    border-color: #af1818;
+    position: relative;
+    left: 50%;
+    right: 50%;
+    transform: translateX(-50%);
+    background-color: #181818;
+}
+
+form{
+    align-content: center;
+}
